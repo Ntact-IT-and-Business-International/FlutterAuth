@@ -1,0 +1,76 @@
+{
+    "composition_item": [
+        {
+            "id": 1,
+            "district_id":1,
+            "leader_name":"NAJJUMA JULIET SENKOOLE",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/rdcs/najjuma.png",
+            "item_name": "RESIDENT DISTRICT COMMISIONER"
+        },
+        {
+            "id": 2,
+            "district_id":1,
+            "leader_name":"NAJJUMA JULIET SENKOOLE",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/rdcs/najjuma.png",
+            "item_name": "DISTRICT POLICE COMMANDER"
+        },
+        {
+            "id": 3,
+            "district_id":1,
+            "leader_name":"NAJJUMA JULIET SENKOOLE",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/rdcs/najjuma.png",
+            "item_name": "JUDICIARY"
+        },
+        {
+            "id": 4,
+            "district_id":1,
+            "leader_name":"NAJJUMA JULIET SENKOOLE",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/rdcs/najjuma.png",
+            "item_name": "Local Councils"
+        },
+        {
+            "id": 5,
+            "district_id":1,
+            "leader_name":"NAJJUMA JULIET SENKOOLE",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/rdcs/najjuma.png",
+            "item_name": "Villages"
+        },
+        {
+            "id": 6,
+            "district_id":1,
+            "leader_name":"NAJJUMA JULIET SENKOOLE",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/rdcs/najjuma.png",
+            "item_name": "Divisions"
+        },
+        {
+            "id": 7,
+            "district_id":1,
+            "leader_name":"NAJJUMA JULIET SENKOOLE",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/rdcs/najjuma.png",
+            "item_name": "Constituencies"
+        },
+        {
+            "id": 8,
+            "district_id":1,
+            "leader_name":"NAJJUMA JULIET SENKOOLE",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/rdcs/najjuma.png",
+            "item_name": "Parishes"
+        }
+    ]
+}

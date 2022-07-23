@@ -1,0 +1,52 @@
+{
+    "composition": [
+        {
+            "id": 1,
+            "district_id":1,
+            "composition_name": "RDC",
+            "composition_url":"rdcs"
+        },
+        {
+            "id": 2,
+            "district_id":1,
+            "composition_name": "Police",
+            "composition_url":"police"
+        },
+        {
+            "id": 3,
+            "district_id":1,
+            "composition_name": "Judiciaries",
+            "composition_url":"judiciaries"
+        },
+        {
+            "id": 4,
+            "district_id":1,
+            "composition_name": "Local Councils",
+            "composition_url":"lcs"
+        },
+        {
+            "id": 5,
+            "district_id":1,
+            "composition_name": "Villages",
+            "composition_url":"villages"
+        },
+        {
+            "id": 6,
+            "district_id":1,
+            "composition_name": "Divisions",
+            "composition_url":"divisions"
+        },
+        {
+            "id": 7,
+            "district_id":1,
+            "composition_name": "Constituencies",
+            "composition_url":"constituences"
+        },
+        {
+            "id": 8,
+            "district_id":1,
+            "composition_name": "Parishes",
+            "composition_url":"parishes"
+        }
+    ]
+}

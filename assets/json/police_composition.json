@@ -1,0 +1,16 @@
+{
+    "police_composition": [
+        {
+            "id": 1,
+            "composition_name": "POLICE LEADERS"
+        },
+        {
+            "id": 2,
+            "composition_name": "DIRECTORATES"
+        },
+        {
+            "id": 3,
+            "composition_name": "REGIONS"
+        }
+    ]
+}

@@ -1,0 +1,436 @@
+{
+    "ministries": [
+        {
+            "id" : 1,
+            "government_body"   : "Office of the President",
+            "head_of_body"      : "Yoweri Museveni",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 2,
+            "government_body"   : "Office of the Vice President",
+            "head_of_body"      : "Jessica Alupo",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 3,
+            "government_body"   : "Office of the Prime Minister",
+            "head_of_body"      : "Robinah Nabbanja",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 4,
+            "government_body"   : "Office of First Deputy Prime Minister & Minister for EAC Affairs",
+            "head_of_body"      : "Rebecca Kadaga",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 5,
+            "government_body"   : "Office of Second Deputy Prime Minister & Leader of Government Business",
+            "head_of_body"      : "Moses Ali",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 6,
+            "government_body"   : "Office of Third Deputy Prime Minister & Minister Without Portfolio",
+            "head_of_body"      : "Lukia Isanga Nakadama",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 7,
+            "government_body"   : "Ministry for Agriculture, Animal Industry and Fisheries",
+            "head_of_body"      : "Frank Tumwebaze",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 8,
+            "government_body"   : "Ministry of Information and Communications Technology",
+            "head_of_body"      : "Chris Baryomunsi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 9,
+            "government_body"   : "Ministry of Defence and Veterans Affairs",
+            "head_of_body"      : "Vincent Ssempijja",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 10,
+            "government_body"   : "Ministry of Disaster Preparedness and Refugees",
+            "head_of_body"      : "Hilary Onek",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 11,
+            "government_body"   : "Ministry of Education and Sports",
+            "head_of_body"      : "Janet Museveni",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 12,
+            "government_body"   : "Ministry of Energy and Mineral Development",
+            "head_of_body"      : "Ruth Nankabirwa",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 13,
+            "government_body"   : "Ministry of Finance, Planning and Economic Development",
+            "head_of_body"      : "Matia Kasaija",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 14,
+            "government_body"   : "Ministry for Foreign Affairs",
+            "head_of_body"      : "Jeje Odongo",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 15,
+            "government_body"   : "Ministry of Gender, Labour and Social Development",
+            "head_of_body"      : "Betty Amongi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 16,
+            "government_body"   : "Minister in Charge of General Duties in the Office of the Prime Minister",
+            "head_of_body"      : "Justine Lumumba Kasule",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 17,
+            "government_body"   : "Ministry of Health",
+            "head_of_body"      : "Jane Aceng",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 18,
+            "government_body"   : "Ministry of Internal Affairs",
+            "head_of_body"      : "Kahinda Otafiire",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 19,
+            "government_body"   : "Ministry of Justice and Constitutional Affairs",
+            "head_of_body"      : "Vacant",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 20,
+            "government_body"   : "Ministry of Lands, Housing and Urban Development",
+            "head_of_body"      : "Judith Nabakooba",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 21,
+            "government_body"   : "Ministry of Local Government",
+            "head_of_body"      : "Raphael Magyezi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 22,
+            "government_body"   : "Ministry of the Presidency",
+            "head_of_body"      : "Milly Babirye Babalanda",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 23,
+            "government_body"   : "Ministry of Public Service",
+            "head_of_body"      : "Wilson Muruli Mukasa",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 24,
+            "government_body"   : "Ministry of Internal Security",
+            "head_of_body"      : "Jim Muhwezi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 25,
+            "government_body"   : "Ministry of Trade, Industry and Cooperatives",
+            "head_of_body"      : "Frank Mwebesa",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 26,
+            "government_body"   : "Ministry of Water and Environment",
+            "head_of_body"      : "Sam Cheptoris",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 27,
+            "government_body"   : "Ministry of Works and Transport",
+            "head_of_body"      : "Katumba Wamala",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 28,
+            "government_body"   : "Minister of Science, Technology and Innovation",
+            "head_of_body"      : "Monica Musenero",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 29,
+            "government_body"   : "Ministry for Karamoja Affairs",
+            "head_of_body"      : "Mary Goretti Kitutu",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 30,
+            "government_body"   : "Ministry of Tourism, Wildlife and Antiquities",
+            "head_of_body"      : "Tom Butime",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 31,
+            "government_body"   : "Minister for Kampala Capital City Authority",
+            "head_of_body"      : "Misi Kabanda",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 32,
+            "government_body"   : "Attorney General",
+            "head_of_body"      : "Kiryowa Kiwanuka",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 33,
+            "government_body"   : "Government Chief Whip",
+            "head_of_body"      : "Thomas Tayebwa",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 34,
+            "government_body"   : "Ministry of State for Agriculture",
+            "head_of_body"      : "Fred Bwiino Kyakulaga",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 35,
+            "government_body"   : "Ministry of State for Animal Industry",
+            "head_of_body"      : "Bright Rwamirama",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 36,
+            "government_body"   : "Ministry of State for Fisheries",
+            "head_of_body"      : "Hellen Adoa",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 37,
+            "government_body"   : "Ministry of State for Information Technology and Communications",
+            "head_of_body"      : "Joyce Ssebugwawo",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 38,
+            "government_body"   : "Ministry of State for Defense",
+            "head_of_body"      : "Jacob Oboth-Oboth",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 39,
+            "government_body"   : "Ministry of State for Veteran Affairs",
+            "head_of_body"      : "Huda Oleru",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 40,
+            "government_body"   : "Ministry of State for Economic Monitoring",
+            "head_of_body"      : "Peter Ogwang",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 41,
+            "government_body"   : "Ministry of State for Labor, Employment and Industrial Relations",
+            "head_of_body"      : "Charles Okello Engola",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 42,
+            "government_body"   : "Ministry of State for the Elderly",
+            "head_of_body"      : "Gidudu Mafaabi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 43,
+            "government_body"   : "Ministry of State for the Disabled",
+            "head_of_body"      : "Hellen Asamo",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 44,
+            "government_body"   : "Ministry of State for Gender and Culture",
+            "head_of_body"      : "Peace Mutuuzo",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 45,
+            "government_body"   : "Ministry of State for Youth and Children Affairs",
+            "head_of_body"      : "Sarah Mateke Nyirabashitsi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 46,
+            "government_body"   : "Ministry of State for Energy",
+            "head_of_body"      : "Sidronius Opolot Okasai",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 47,
+            "government_body"   : "Ministry of State for Minerals",
+            "head_of_body"      : "Peter Lokeris",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 48,
+            "government_body"   : "Ministry of State for Water",
+            "head_of_body"      : "Aisha Sekkindi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 49,
+            "government_body"   : "Ministry of State for the Environment",
+            "head_of_body"      : "Beatrice Atim Anywar",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 50,
+            "government_body"   : "Ministry of State for Finance (General Duties)",
+            "head_of_body"      : "Henry Musaasizi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 51,
+            "government_body"   : "Ministry of State for Finance (Planning)",
+            "head_of_body"      : "Amos Lugoloobi",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 52,
+            "government_body"   : "Ministry of State for Finance (Investments and Privatisation)",
+            "head_of_body"      : "Evelyn Anite",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 53,
+            "government_body"   : "Ministry of State for Microfinance",
+            "head_of_body"      : "Haruna Kasolo Kyeyune",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        },
+        {
+            "id" : 54,
+            "government_body"   : "Ministry of Sate for Foreign Affairs (International Relations)",
+            "head_of_body"      : "Haruna Kasolo Kyeyune",
+            "Location"          : "General Contanct",
+            "general_contact"   : "General Contanct",
+            "head_image"        : "assets/img/rdcs/najjuma.png"
+        }
+    ]
+}

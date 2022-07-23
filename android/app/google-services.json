@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "581778668627",
+    "project_id": "juzawo-13cea",
+    "storage_bucket": "juzawo-13cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581778668627:android:a5ad0751d62a0251c31aa6",
+        "android_client_info": {
+          "package_name": "com.example.juzawo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581778668627-a6rnicmpf93nnkjbnglf7vu3tbglqe3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKlh-P90hmpyu0DioHbJS-UlP3QjBn-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581778668627-a6rnicmpf93nnkjbnglf7vu3tbglqe3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581778668627-ethc188iqe1lakn3eoh5eo8tcsh6gqgr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.juzawo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

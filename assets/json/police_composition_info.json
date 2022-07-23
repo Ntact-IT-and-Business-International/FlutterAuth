@@ -1,0 +1,76 @@
+{
+    "police_composition_info": [
+        {
+            "id": 1,
+            "district_id":1,
+            "leader_name":"ENANGA FRED",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/police/enanga.png",
+            "item_name": "POLICE SPOKES PERSON"
+        },
+        {
+            "id": 2,
+            "district_id":1,
+            "leader_name":"ENANGA FRED",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/police/enanga.png",
+            "item_name": "POLICE SPOKES PERSON"
+        },
+        {
+            "id": 3,
+            "district_id":1,
+            "leader_name":"ENANGA FRED",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/police/enanga.png",
+            "item_name": "POLICE SPOKES PERSON"
+        },
+        {
+            "id": 4,
+            "district_id":1,
+            "leader_name":"ENANGA FRED",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/police/enanga.png",
+            "item_name": "POLICE SPOKES PERSON"
+        },
+        {
+            "id": 5,
+            "district_id":1,
+            "leader_name":"ENANGA FRED",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/police/enanga.png",
+            "item_name": "POLICE SPOKES PERSON"
+        },
+        {
+            "id": 6,
+            "district_id":1,
+            "leader_name":"ENANGA FRED",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/police/enanga.png",
+            "item_name": "POLICE SPOKES PERSON"
+        },
+        {
+            "id": 7,
+            "district_id":1,
+            "leader_name":"ENANGA FRED",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/police/enanga.png",
+            "item_name": "POLICE SPOKES PERSON"
+        },
+        {
+            "id": 8,
+            "district_id":1,
+            "leader_name":"ENANGA FRED",
+            "leader_email":"najjuma@gmail.com",
+            "leader_phone_number":"+256776913451",
+            "leaders_photo":"assets/img/police/enanga.png",
+            "item_name": "POLICE SPOKES PERSON"
+        }
+    ]
+}

@@ -1,0 +1,448 @@
+{
+    "districts": [
+        {
+            "id": 1,
+            "district_name": "Abim"
+        },
+        {
+            "id": 2,
+            "district_name": "Adjumani"
+        },
+        {
+            "id": 3,
+            "district_name": "Agago"
+        },
+        {
+            "id": 4,
+            "district_name": "Alebtong"
+        },
+        {
+            "id": 5,
+            "district_name": "Amolatar"
+        },
+        {
+            "id": 6,
+            "district_name": "Amudat"
+        },
+        {
+            "id": 80,
+            "district_name": "Amuria"
+        },
+        {
+            "id": 7,
+            "district_name": "Amuru"
+        },
+        {
+            "id": 8,
+            "district_name": "Apac"
+        },
+        {
+            "id": 9,
+            "district_name": "Arua"
+        },
+        {
+            "id": 81,
+            "district_name": "Budaka"
+        },
+        {
+            "id": 82,
+            "district_name": "Bududa"
+        },
+        {
+            "id": 83,
+            "district_name": "Bugiri"
+        },
+        {
+            "id": 31,
+            "district_name": "Buhweju"
+        },
+        {
+            "id": 57,
+            "district_name": "Buikwe"
+        },
+        {
+            "id": 84,
+            "district_name": "Bukedea"
+        },
+        {
+            "id": 58,
+            "district_name": "Bukomansimbi"
+        },
+        {
+            "id": 85,
+            "district_name": "Bukwa"
+        },
+        {
+            "id": 86,
+            "district_name": "Bulambuli"
+        },
+        {
+            "id": 32,
+            "district_name": "Buliisa"
+        },
+        {
+            "id": 33,
+            "district_name": "Bundibugyo"
+        },
+        {
+            "id": 34,
+            "district_name": "Bushenyi"
+        },
+        {
+            "id": 87,
+            "district_name": "Busia"
+        },
+        {
+            "id": 88,
+            "district_name": "Butaleja"
+        },
+        {
+            "id": 59,
+            "district_name": "Butambala"
+        },
+        {
+            "id": 60,
+            "district_name": "Buvuma"
+        },
+        {
+            "id": 89,
+            "district_name": "Buyende"
+        },
+        {
+            "id": 10,
+            "district_name": "Dokolo"
+        },
+        {
+            "id": 61,
+            "district_name": "Gomba"
+        },
+        {
+            "id": 11,
+            "district_name": "Gulu"
+        },
+        {
+            "id": 35,
+            "district_name": "Hoima"
+        },
+        {
+            "id": 36,
+            "district_name": "Ibanda"
+        },
+        {
+            "id": 90,
+            "district_name": "Iganga"
+        },
+        {
+            "id": 37,
+            "district_name": "Isingiro"
+        },
+        {
+            "id": 91,
+            "district_name": "Jinja"
+        },
+        {
+            "id": 12,
+            "district_name": "Kaabong"
+        },
+        {
+            "id": 38,
+            "district_name": "Kabale"
+        },
+        {
+            "id": 39,
+            "district_name": "Kabarole"
+        },
+        {
+            "id": 92,
+            "district_name": "Kaberamaido"
+        },
+        {
+            "id": 62,
+            "district_name": "Kalangala"
+        },
+        {
+            "id": 93,
+            "district_name": "Kaliro"
+        },
+        {
+            "id": 63,
+            "district_name": "Kalungu"
+        },
+        {
+            "id": 94,
+            "district_name": "Kamuli"
+        },
+        {
+            "id": 40,
+            "district_name": "Kamwenge"
+        },
+        {
+            "id": 41,
+            "district_name": "Kanungu"
+        },
+        {
+            "id": 95,
+            "district_name": "Kapchorwa"
+        },
+        {
+            "id": 42,
+            "district_name": "Kasese"
+        },
+        {
+            "id": 96,
+            "district_name": "Katakwi"
+        },
+        {
+            "id": 64,
+            "district_name": "Kayunga"
+        },
+        {
+            "id": 43,
+            "district_name": "Kibaale"
+        },
+        {
+            "id": 65,
+            "district_name": "Kiboga"
+        },
+        {
+            "id": 97,
+            "district_name": "Kibuku"
+        },
+        {
+            "id": 44,
+            "district_name": "Kiruhura"
+        },
+        {
+            "id": 45,
+            "district_name": "Kiryandongo"
+        },
+        {
+            "id": 46,
+            "district_name": "Kisoro"
+        },
+        {
+            "id": 13,
+            "district_name": "Kitgum"
+        },
+        {
+            "id": 14,
+            "district_name": "Koboko"
+        },
+        {
+            "id": 15,
+            "district_name": "Kole"
+        },
+        {
+            "id": 16,
+            "district_name": "Kotido"
+        },
+        {
+            "id": 98,
+            "district_name": "Kumi"
+        },
+        {
+            "id": 99,
+            "district_name": "Kween"
+        },
+        {
+            "id": 66,
+            "district_name": "Kyankwanzi"
+        },
+        {
+            "id": 47,
+            "district_name": "Kyegegwa"
+        },
+        {
+            "id": 48,
+            "district_name": "Kyenjojo"
+        },
+        {
+            "id": 17,
+            "district_name": "Lamwo"
+        },
+        {
+            "id": 18,
+            "district_name": "Lira"
+        },
+        {
+            "id": 100,
+            "district_name": "Luuka"
+        },
+        {
+            "id": 67,
+            "district_name": "Luweero"
+        },
+        {
+            "id": 68,
+            "district_name": "Lwengo"
+        },
+        {
+            "id": 69,
+            "district_name": "Lyantonde"
+        },
+        {
+            "id": 101,
+            "district_name": "Manafwa"
+        },
+        {
+            "id": 19,
+            "district_name": "Maracha"
+        },
+        {
+            "id": 70,
+            "district_name": "Masaka"
+        },
+        {
+            "id": 49,
+            "district_name": "Masindi"
+        },
+        {
+            "id": 102,
+            "district_name": "Mayuge"
+        },
+        {
+            "id": 103,
+            "district_name": "Mbale"
+        },
+        {
+            "id": 50,
+            "district_name": "Mbarara"
+        },
+        {
+            "id": 51,
+            "district_name": "Mitooma"
+        },
+        {
+            "id": 71,
+            "district_name": "Mityana"
+        },
+        {
+            "id": 20,
+            "district_name": "Moroto"
+        },
+        {
+            "id": 21,
+            "district_name": "Moyo"
+        },
+        {
+            "id": 72,
+            "district_name": "Mpigi"
+        },
+        {
+            "id": 73,
+            "district_name": "Mubende"
+        },
+        {
+            "id": 74,
+            "district_name": "Mukono"
+        },
+        {
+            "id": 22,
+            "district_name": "Nakapiripirit"
+        },
+        {
+            "id": 75,
+            "district_name": "Nakaseke"
+        },
+        {
+            "id": 76,
+            "district_name": "Nakasongola"
+        },
+        {
+            "id": 104,
+            "district_name": "Namayingo"
+        },
+        {
+            "id": 105,
+            "district_name": "Namutumba"
+        },
+        {
+            "id": 23,
+            "district_name": "Napak"
+        },
+        {
+            "id": 24,
+            "district_name": "Nebbi"
+        },
+        {
+            "id": 106,
+            "district_name": "Ngora"
+        },
+        {
+            "id": 52,
+            "district_name": "Ntoroko"
+        },
+        {
+            "id": 53,
+            "district_name": "Ntungamo"
+        },
+        {
+            "id": 25,
+            "district_name": "Nwoya"
+        },
+        {
+            "id": 26,
+            "district_name": "Otuke"
+        },
+        {
+            "id": 27,
+            "district_name": "Oyam"
+        },
+        {
+            "id": 28,
+            "district_name": "Pader"
+        },
+        {
+            "id": 107,
+            "district_name": "Pallisa"
+        },
+        {
+            "id": 77,
+            "district_name": "Rakai"
+        },
+        {
+            "id": 54,
+            "district_name": "Rubirizi"
+        },
+        {
+            "id": 55,
+            "district_name": "Rukungiri"
+        },
+        {
+            "id": 78,
+            "district_name": "Sembabule"
+        },
+        {
+            "id": 108,
+            "district_name": "Serere"
+        },
+        {
+            "id": 56,
+            "district_name": "Sheema"
+        },
+        {
+            "id": 109,
+            "district_name": "Sironko"
+        },
+        {
+            "id": 110,
+            "district_name": "Soroti"
+        },
+        {
+            "id": 111,
+            "district_name": "Tororo"
+        },
+        {
+            "id": 79,
+            "district_name": "Wakiso"
+        },
+        {
+            "id": 29,
+            "district_name": "Yumbe"
+        },
+        {
+            "id": 30,
+            "district_name": "Zombo"
+        }
+    ]
+}
