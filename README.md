@@ -1,6 +1,6 @@
 # Flutter Authentication
 
-A new Flutter project.
+A fully working authentication frame for flutter
 
 ## Getting Started
 
