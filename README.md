@@ -1,4 +1,4 @@
-# juzawo
+# Flutter Authentication
 
 A new Flutter project.
 
